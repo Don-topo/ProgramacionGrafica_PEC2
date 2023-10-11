@@ -1,0 +1,100 @@
+﻿  raudio.c
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(130,53): warning C4244: '=': conversión de 'float' a 'short'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(143,53): warning C4244: '=': conversión de 'float' a 'char'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1238,47): warning C4244: '=': conversión de 'uint16_t' a 'uint8_t'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1254,28): warning C4244: 'inicializando': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1256,33): warning C4244: 'inicializando': conversión de 'float' a 'int8_t'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1417,43): warning C4244: '=': conversión de 'uint32_t' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1424,53): warning C4244: '=': conversión de 'uint32_t' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1426,43): warning C4244: '=': conversión de 'uint32_t' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1437,43): warning C4244: '=': conversión de 'uint32_t' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1464,41): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1824,41): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1933,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(1990,33): warning C4244: '=': conversión de 'float' a 'uint32_t'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(2029,45): warning C4244: '=': conversión de 'uint32_t' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(2162,21): warning C4244: '+=': conversión de 'float' a 'uint64_t'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\jar_xm.h(2322,38): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\raudio.c(1759,45): warning C4244: 'inicializando': conversión de 'drwav_uint64' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\raudio.c(1770,45): warning C4244: 'inicializando': conversión de 'drwav_uint64' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\raudio.c(1810,41): warning C4244: 'inicializando': conversión de 'drmp3_uint64' a 'int'; posible pérdida de datos
+  rcore.c
+  rglfw.c
+  rmodels.c
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(225,56): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(226,60): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(294,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(574,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(575,29): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(583,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(584,25): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(608,20): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(599,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(600,25): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(616,29): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(625,29): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(635,29): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(636,27): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(658,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(660,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(661,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(667,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(668,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(669,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(650,37): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(651,31): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(652,23): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(653,23): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(654,23): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(655,23): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(727,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(728,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(752,29): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(726,38): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(835,35): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(836,35): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(837,35): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(883,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(931,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1031,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1362,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1364,58): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1366,58): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1368,58): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1525,38): warning C4305: 'función': truncamiento de 'double' a 'float'
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1542,20): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1543,20): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1544,20): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1546,39): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1830,33): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1830,49): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1830,65): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\par_shapes.h(1799,30): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(838,37): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(981,37): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5415,35): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5432,39): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5481,60): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5483,60): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5485,60): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5509,55): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5529,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5606,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5707,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rmodels.c(5726,35): warning C4018: '<': no coinciden signed/unsigned
+  rshapes.c
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(108,25): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(108,31): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(159,20): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(159,31): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(160,20): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(160,29): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(212,31): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(257,31): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\rshapes.c(302,31): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  rtext.c
+  rtextures.c
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\raylib-master\src\external\qoi.h(662,15): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  utils.c
+  Generando código...
+  raylib.vcxproj -> C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_bin\Release\raylib.lib

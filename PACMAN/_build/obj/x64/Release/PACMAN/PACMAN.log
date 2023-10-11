@@ -1,0 +1,35 @@
+﻿  AudioManager.cpp
+  Enemy.cpp
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Enemy.cpp(144,93): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  GameManager.cpp
+  Pacman.cpp
+  Player.cpp
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Player.cpp(11,22): warning C4244: '=': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Player.cpp(12,22): warning C4244: '=': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Player.cpp(64,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Player.cpp(69,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Player.cpp(74,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Player.cpp(79,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Player.cpp(84,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Player.cpp(89,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Screen_ending.cpp
+  Screen_gameplay.cpp
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Screen_gameplay.cpp(95,108): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Screen_gameplay.cpp(95,108): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Screen_gameplay.cpp(95,122): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Screen_gameplay.cpp(95,122): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Screen_logo.cpp
+  Screen_options.cpp
+  Screen_title.cpp
+  TextureManager.cpp
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(65,53): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(65,53): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(65,136): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(65,136): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(65,204): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(65,204): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(65,222): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(65,222): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\TextureManager.cpp(57): warning C4715: 'TextureManager::GetTexture': no todas las rutas de acceso de control devuelven un valor
+  PACMAN.vcxproj -> C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_bin\Release\PACMAN.exe

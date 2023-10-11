@@ -1,0 +1,6 @@
+﻿  Screen_gameplay.cpp
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Screen_gameplay.cpp(95,108): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Screen_gameplay.cpp(95,108): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Screen_gameplay.cpp(95,122): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_build\Screen_gameplay.cpp(95,122): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  PACMAN.vcxproj -> C:\Users\ruben\Documents\UOC\ProgramacionGrafica\PEC2\PACMAN\_bin\Debug\PACMAN.exe
